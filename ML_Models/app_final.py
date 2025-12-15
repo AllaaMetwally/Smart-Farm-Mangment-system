@@ -5,8 +5,8 @@ import joblib
 
 from catboost import CatBoostClassifier  
 model = CatBoostClassifier()
-model.load_model("catboost_model.pkl
-")
+model = joblib.load("models/catboost_model.pkl")
+
 st.title("Animal Health Prediction 🐑🐓🐄")
 
 
