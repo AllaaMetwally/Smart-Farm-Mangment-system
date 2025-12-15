@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 
-model = joblib.load("models/catboost_model.pkl")
+model = joblib.load("catboost_model.pkl")
 
 st.title("Animal Health Prediction 🐑🐓🐄")
 
