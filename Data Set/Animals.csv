@@ -1,0 +1,101 @@
+Animal_ID,Type,Age,Weight,Health_Status,Vaccination_Date
+1,Sheep,3,440,Good,2023-04-14
+2,Cow,8,73,Needs Care,2023-08-14
+3,Goat,1,395,Good,2023-04-13
+4,Sheep,4,431,Average,2023-10-09
+5,Goat,4,130,Average,2023-11-09
+6,Chicken,1,114,Needs Care,2023-10-04
+7,Sheep,5,282,Good,2023-04-23
+8,Chicken,7,88,Average,2023-04-16
+9,Cow,5,26,Needs Care,2023-08-15
+10,Cow,2,246,Average,2023-08-23
+11,Goat,4,281,Good,2023-08-16
+12,Chicken,5,149,Needs Care,2023-12-01
+13,Goat,3,399,Needs Care,2023-06-14
+14,Goat,9,409,Average,2023-07-04
+15,Sheep,6,295,Average,2023-02-06
+16,Chicken,8,39,Average,2023-05-25
+17,Sheep,6,99,Needs Care,2023-01-29
+18,Chicken,1,239,Good,2023-10-12
+19,Sheep,9,223,Needs Care,2023-04-14
+20,Chicken,8,353,Good,2023-07-11
+21,Cow,2,350,Needs Care,2023-04-09
+22,Sheep,7,164,Needs Care,2023-08-24
+23,Sheep,6,87,Good,2023-05-31
+24,Chicken,4,437,Needs Care,2023-01-10
+25,Sheep,3,444,Average,2023-02-05
+26,Sheep,1,124,Needs Care,2023-09-08
+27,Cow,6,48,Needs Care,2023-06-18
+28,Chicken,2,30,Average,2023-05-21
+29,Goat,6,388,Needs Care,2023-06-23
+30,Sheep,4,36,Needs Care,2023-05-08
+31,Sheep,5,217,Needs Care,2023-06-29
+32,Chicken,5,399,Needs Care,2023-09-06
+33,Sheep,1,432,Needs Care,2023-01-14
+34,Cow,3,460,Good,2023-03-14
+35,Goat,6,190,Needs Care,2023-04-18
+36,Goat,9,153,Good,2023-03-31
+37,Chicken,3,319,Average,2023-11-18
+38,Goat,6,269,Average,2023-04-03
+39,Goat,7,426,Good,2023-11-04
+40,Cow,9,264,Good,2023-02-09
+41,Cow,4,252,Needs Care,2023-06-28
+42,Chicken,7,217,Good,2023-07-08
+43,Cow,7,281,Needs Care,2023-08-06
+44,Goat,2,458,Needs Care,2023-07-17
+45,Sheep,8,25,Average,2023-06-01
+46,Goat,5,70,Average,2023-04-02
+47,Sheep,5,298,Average,2023-11-24
+48,Cow,5,38,Needs Care,2023-05-26
+49,Chicken,1,354,Average,2023-01-22
+50,Sheep,1,31,Good,2023-07-08
+51,Cow,5,30,Needs Care,2023-02-12
+52,Chicken,6,212,Average,2023-08-14
+53,Goat,7,431,Average,2023-02-08
+54,Sheep,3,468,Good,2023-04-18
+55,Sheep,5,373,Good,2023-01-30
+56,Cow,7,163,Needs Care,2023-11-04
+57,Cow,9,135,Good,2023-04-04
+58,Cow,6,195,Needs Care,2023-09-24
+59,Cow,4,177,Average,2023-09-02
+60,Sheep,5,397,Needs Care,2023-10-10
+61,Goat,8,415,Average,2023-02-16
+62,Cow,5,472,Good,2023-06-04
+63,Sheep,9,162,Average,2023-09-21
+64,Chicken,6,217,Good,2023-02-11
+65,Cow,9,334,Average,2023-10-13
+66,Chicken,8,50,Needs Care,2023-10-14
+67,Sheep,6,307,Needs Care,2023-05-07
+68,Cow,3,116,Needs Care,2023-08-28
+69,Sheep,7,384,Good,2023-05-21
+70,Goat,2,481,Needs Care,2023-05-08
+71,Cow,9,458,Good,2023-10-22
+72,Goat,3,229,Good,2023-04-05
+73,Sheep,4,60,Needs Care,2023-08-17
+74,Sheep,9,177,Needs Care,2023-07-08
+75,Goat,4,285,Average,2023-11-21
+76,Chicken,6,166,Needs Care,2023-05-15
+77,Cow,2,272,Average,2023-02-26
+78,Goat,1,440,Average,2023-10-17
+79,Sheep,7,456,Needs Care,2023-01-01
+80,Goat,6,252,Needs Care,2023-05-05
+81,Goat,7,483,Needs Care,2023-09-22
+82,Goat,5,90,Good,2023-02-28
+83,Sheep,7,173,Needs Care,2023-11-25
+84,Chicken,6,72,Good,2023-07-03
+85,Chicken,5,88,Average,2023-08-15
+86,Cow,9,302,Average,2023-07-06
+87,Sheep,5,179,Good,2023-01-14
+88,Chicken,8,384,Good,2023-10-23
+89,Chicken,8,68,Good,2023-04-07
+90,Cow,5,470,Good,2023-01-01
+91,Goat,4,484,Good,2023-03-17
+92,Cow,5,89,Needs Care,2023-08-08
+93,Goat,4,20,Average,2023-03-22
+94,Cow,7,172,Good,2023-05-11
+95,Chicken,9,208,Needs Care,2023-06-05
+96,Sheep,2,111,Good,2023-04-03
+97,Chicken,9,329,Good,2023-09-13
+98,Cow,1,69,Good,2023-09-04
+99,Chicken,4,403,Average,2023-05-28
+100,Cow,5,56,Needs Care,2023-11-16

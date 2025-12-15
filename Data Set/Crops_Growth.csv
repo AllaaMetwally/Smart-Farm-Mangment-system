@@ -1,0 +1,151 @@
+Growth_ID,Plant_ID,Stage_Name,Date,Notes
+1,30,Vegetative,2023-12-15,Healthy
+2,87,Vegetative,2023-10-06,Needs water
+3,98,Flowering,2023-12-10,Needs water
+4,48,Vegetative,2023-09-01,Needs water
+5,40,Harvest,2023-11-23,Needs water
+6,46,Seedling,2023-08-01,Healthy
+7,98,Vegetative,2023-08-26,Needs water
+8,98,Harvest,2023-09-28,Needs water
+9,82,Flowering,2023-04-28,Needs water
+10,74,Seedling,2023-09-28,Healthy
+11,2,Seedling,2023-06-22,Healthy
+12,14,Harvest,2023-04-26,Normal
+13,2,Flowering,2023-10-09,Healthy
+14,30,Seedling,2023-06-04,Needs water
+15,61,Flowering,2023-04-12,Normal
+16,20,Flowering,2023-07-29,Normal
+17,36,Vegetative,2023-07-16,Needs water
+18,10,Harvest,2023-06-26,Normal
+19,37,Vegetative,2023-07-18,Needs water
+20,78,Flowering,2023-12-28,Normal
+21,72,Harvest,2023-01-01,Needs water
+22,93,Vegetative,2023-03-23,Needs water
+23,58,Flowering,2023-11-25,Normal
+24,95,Flowering,2023-01-22,Healthy
+25,43,Seedling,2023-06-05,Normal
+26,92,Vegetative,2023-10-27,Normal
+27,69,Vegetative,2023-03-10,Needs water
+28,24,Harvest,2023-03-27,Normal
+29,15,Vegetative,2023-08-05,Normal
+30,36,Flowering,2023-05-05,Needs water
+31,96,Vegetative,2023-09-12,Healthy
+32,31,Seedling,2023-12-04,Needs water
+33,35,Harvest,2023-11-25,Normal
+34,55,Harvest,2023-03-03,Healthy
+35,14,Flowering,2023-05-02,Normal
+36,3,Vegetative,2023-10-26,Healthy
+37,44,Harvest,2023-10-27,Normal
+38,95,Vegetative,2023-07-06,Healthy
+39,77,Harvest,2023-10-02,Healthy
+40,60,Flowering,2023-01-13,Needs water
+41,53,Harvest,2023-05-04,Normal
+42,82,Vegetative,2023-11-12,Needs water
+43,53,Seedling,2023-05-16,Normal
+44,63,Harvest,2023-10-20,Needs water
+45,71,Flowering,2023-01-02,Healthy
+46,92,Vegetative,2023-02-16,Healthy
+47,17,Flowering,2023-01-27,Normal
+48,37,Vegetative,2023-04-05,Healthy
+49,11,Vegetative,2023-03-27,Healthy
+50,27,Seedling,2023-03-05,Healthy
+51,8,Vegetative,2023-01-06,Needs water
+52,88,Flowering,2023-09-10,Healthy
+53,30,Harvest,2023-09-01,Normal
+54,32,Seedling,2023-02-01,Normal
+55,51,Harvest,2023-05-10,Healthy
+56,39,Harvest,2023-07-20,Healthy
+57,5,Flowering,2023-10-08,Needs water
+58,96,Flowering,2023-07-26,Healthy
+59,74,Flowering,2023-10-01,Needs water
+60,86,Seedling,2023-08-28,Needs water
+61,67,Flowering,2023-12-15,Normal
+62,84,Flowering,2023-11-28,Healthy
+63,67,Flowering,2023-11-25,Normal
+64,8,Flowering,2023-06-25,Healthy
+65,44,Vegetative,2023-08-01,Healthy
+66,47,Harvest,2023-04-09,Normal
+67,8,Harvest,2023-11-18,Normal
+68,62,Harvest,2023-07-08,Needs water
+69,39,Seedling,2023-10-09,Healthy
+70,30,Flowering,2023-02-22,Needs water
+71,73,Vegetative,2023-03-30,Healthy
+72,6,Flowering,2023-08-23,Normal
+73,83,Flowering,2023-06-25,Needs water
+74,59,Harvest,2023-08-01,Healthy
+75,20,Flowering,2023-04-10,Normal
+76,67,Flowering,2023-02-20,Healthy
+77,37,Flowering,2023-03-27,Healthy
+78,11,Flowering,2023-08-06,Normal
+79,21,Vegetative,2023-10-24,Healthy
+80,49,Vegetative,2023-02-17,Healthy
+81,5,Flowering,2023-10-20,Normal
+82,86,Seedling,2023-09-02,Healthy
+83,1,Vegetative,2023-04-05,Needs water
+84,58,Seedling,2023-06-16,Needs water
+85,66,Vegetative,2023-08-07,Healthy
+86,14,Seedling,2023-04-12,Normal
+87,54,Flowering,2023-08-14,Healthy
+88,78,Seedling,2023-03-18,Normal
+89,45,Flowering,2023-09-27,Normal
+90,49,Harvest,2023-01-18,Healthy
+91,64,Harvest,2023-05-08,Needs water
+92,10,Harvest,2023-11-24,Normal
+93,26,Seedling,2023-01-04,Healthy
+94,45,Harvest,2023-05-11,Normal
+95,30,Harvest,2023-07-13,Normal
+96,21,Flowering,2023-06-15,Needs water
+97,30,Seedling,2023-01-09,Healthy
+98,61,Vegetative,2023-12-01,Normal
+99,24,Harvest,2023-04-15,Needs water
+100,65,Harvest,2023-12-13,Healthy
+101,77,Harvest,2023-11-24,Healthy
+102,84,Flowering,2023-12-13,Normal
+103,6,Flowering,2023-04-22,Normal
+104,79,Harvest,2023-03-22,Normal
+105,4,Harvest,2023-02-14,Needs water
+106,66,Seedling,2023-12-17,Needs water
+107,44,Seedling,2023-09-14,Needs water
+108,4,Flowering,2023-12-25,Needs water
+109,78,Vegetative,2023-07-02,Needs water
+110,37,Vegetative,2023-04-30,Needs water
+111,24,Seedling,2023-04-19,Healthy
+112,38,Seedling,2023-12-04,Normal
+113,75,Seedling,2023-10-15,Needs water
+114,56,Vegetative,2023-02-17,Needs water
+115,83,Seedling,2023-06-25,Healthy
+116,95,Seedling,2023-01-20,Normal
+117,58,Harvest,2023-12-10,Normal
+118,84,Flowering,2023-11-10,Needs water
+119,27,Flowering,2023-12-23,Needs water
+120,50,Harvest,2023-04-18,Needs water
+121,22,Harvest,2023-05-06,Normal
+122,59,Flowering,2023-08-16,Normal
+123,54,Harvest,2023-05-03,Healthy
+124,19,Vegetative,2023-08-14,Healthy
+125,30,Vegetative,2023-08-26,Needs water
+126,53,Harvest,2023-10-25,Normal
+127,79,Flowering,2023-06-22,Needs water
+128,7,Seedling,2023-07-07,Healthy
+129,80,Harvest,2023-03-04,Healthy
+130,71,Flowering,2023-01-13,Normal
+131,65,Flowering,2023-05-28,Healthy
+132,27,Seedling,2023-10-26,Needs water
+133,39,Seedling,2023-03-30,Needs water
+134,100,Seedling,2023-06-28,Normal
+135,70,Flowering,2023-05-12,Normal
+136,85,Harvest,2023-03-10,Normal
+137,50,Vegetative,2023-09-03,Normal
+138,69,Harvest,2023-07-08,Needs water
+139,72,Seedling,2023-02-06,Needs water
+140,38,Vegetative,2023-01-01,Normal
+141,51,Harvest,2023-12-11,Normal
+142,19,Vegetative,2023-01-04,Needs water
+143,63,Harvest,2023-01-27,Normal
+144,16,Seedling,2023-05-28,Healthy
+145,59,Vegetative,2023-09-05,Healthy
+146,67,Harvest,2023-05-25,Needs water
+147,48,Flowering,2023-11-03,Needs water
+148,14,Flowering,2023-04-13,Healthy
+149,17,Flowering,2023-10-22,Normal
+150,99,Vegetative,2023-08-30,Healthy

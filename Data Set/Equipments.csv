@@ -1,0 +1,21 @@
+Equipment_ID,Name,Condition,Purchase_Date,Maintenance_Date
+1,Water Pump,Good,2022-05-21,2023-02-04
+2,Plow,Good,2021-11-15,2023-05-18
+3,Tractor,Good,2022-01-07,2023-10-22
+4,Plow,Needs Repair,2022-04-22,2023-10-12
+5,Harvester,Good,2020-10-19,2023-10-09
+6,Plow,Good,2020-12-15,2023-11-16
+7,Tractor,Good,2021-10-15,2023-01-04
+8,Plow,Needs Repair,2020-10-30,2023-04-29
+9,Plow,Needs Repair,2020-02-19,2023-01-16
+10,Plow,Needs Repair,2020-12-21,2023-07-31
+11,Water Pump,Good,2022-05-15,2023-07-15
+12,Water Pump,Needs Repair,2020-12-11,2023-08-12
+13,Plow,Needs Repair,2021-10-07,2023-10-20
+14,Water Pump,Needs Repair,2021-10-31,2023-02-15
+15,Harvester,Good,2022-10-14,2023-10-27
+16,Plow,Needs Repair,2020-05-09,2023-02-08
+17,Plow,Needs Repair,2022-06-24,2023-07-02
+18,Harvester,Needs Repair,2020-05-27,2023-03-30
+19,Plow,Good,2021-05-15,2023-03-13
+20,Water Pump,Good,2021-03-14,2023-06-23
