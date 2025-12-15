@@ -3,8 +3,9 @@ import pandas as pd
 import joblib
 
 
-model = joblib.load(r"catboost_model.pkl")
-
+from catboost import CatBoostClassifier  
+model = CatBoostClassifier()
+model.load_model("catboost_model.cbm")
 st.title("Animal Health Prediction 🐑🐓🐄")
 
 
