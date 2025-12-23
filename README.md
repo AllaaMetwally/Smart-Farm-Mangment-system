@@ -63,7 +63,7 @@ ML: Scikit-learn, XGBoost
 
 🌐 Website: smartfarm-demo.example.com
 
-🤖 ML Model: ml.smartfarm.example.com
+🤖 ML Model: [🎥 Model in Action](https://drive.google.com/file/d/1JxdqmFrUSm1iX9HzaqwH_dKpg3-8oq0c/view?usp=sharing)
 
 📽️ Presentation: [Click Here](https://www.canva.com/design/DAG7hsdNVJw/S1UMyA053geAHknxgQGo-w/edit?utm_content=DAG7hsdNVJw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
