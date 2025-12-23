@@ -1,4 +1,4 @@
-# 🐑🐓🐄 Animal Health Prediction
+# 🐄 Animal Health Prediction
 ## 📌 Overview
 - A machine learning system that predicts animal health status using CatBoost classifier, with a user-friendly Streamlit web interface.
 
@@ -18,7 +18,8 @@
 
 1. Train the Model
 
-              python model.py
+
+        python model.py
 
 ⚠️ What this does:
 - Loads Animals.csv and Animal_Health_Log.csv
