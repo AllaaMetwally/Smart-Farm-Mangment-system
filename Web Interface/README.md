@@ -12,24 +12,40 @@ This guide provides step-by-step instructions to set up and run the SmartFarm we
 
 
 ## 📥 Installation Steps
-### 1. Install Python Dependencies
-   - pip install streamlit pandas psycopg2-binary
-    
-### 2. Setup PostgreSQL Database
-   - Run these commands in PostgreSQL:
-      - CREATE DATABASE smartfarmfinal;
-      - CREATE ROLE farm_owner WITH LOGIN PASSWORD 'owner123';
-      - CREATE ROLE farm_worker WITH LOGIN PASSWORD 'worker123';
-      - CREATE ROLE farm_visitor WITH LOGIN PASSWORD 'visitor123';
-      - GRANT CONNECT ON DATABASE smartfarmfinal TO farm_owner, farm_worker, farm_visitor;
+      pip install streamlit pandas psycopg2-binary
 
-### 3. Configure Database Connection
-    In streamlit_app.py, update the DB_CONFIG_FALLBACK section:
-    DB_CONFIG_FALLBACK = {
-    "dbname": "smartfarmfinal",
-    "user": "postgres",           # Your PostgreSQL username
-    "password": "your_password",  # Your PostgreSQL password
-    "host": "localhost",
-    "port": "5432",
-}
-### 4. 
+    
+## 🗄️ Database Setup
+
+      CREATE DATABASE smartfarmfinal;
+      CREATE ROLE farm_owner WITH LOGIN PASSWORD 'owner123';
+      GRANT CONNECT ON DATABASE smartfarmfinal TO farm_owner;
+
+
+## ⚙️ Configure
+   - In streamlit_app.py, update the DB_CONFIG_FALLBACK section:
+    
+         DB_CONFIG_FALLBACK = {
+          "dbname": "smartfarmfinal",
+          "user": "postgres",
+          "password": "your_password",
+          "host": "localhost",
+          "port": "5432", }
+    
+## ▶️ Run
+
+      streamlit run streamlit_app.py
+
+
+## 🔐 Login Credentials
+
+      Role	Username	Password	Access
+      Owner	farm_owner	owner123	Full
+      Worker	farm_worker	worker123	Operations
+      Visitor	farm_visitor	visitor123	View Only
+
+## 🌐 Access the Application
+Once running, open your browser and navigate to:
+👉 http://localhost:8501
+
+
