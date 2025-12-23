@@ -64,6 +64,7 @@ def execute_query(query, params=None, fetch=True):
     if not conn:
         return None
     try:
+        
         with conn.cursor(cursor_factory=RealDictCursor) as cursor:
             cursor.execute(query, params)
             up = query.lstrip().upper()
