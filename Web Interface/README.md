@@ -49,3 +49,10 @@ Once running, open your browser and navigate to:
 👉 http://localhost:8501
 
 
+## 🚨 Quick Fixes
+- DB not running: sudo service postgresql start
+
+- Port busy: streamlit run app.py --server.port 8502
+
+- Import errors: pip install -r requirements.txt
+
