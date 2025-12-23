@@ -67,7 +67,7 @@ Solution: Centralized RDBMS with 4 modules: Livestock, Crops, Finance, Operation
 
 ## Live Links
 
-🌐 Website: smartfarm-demo.example.com
+🌐 Website: [🖥️ Interface Tutorial](https://drive.google.com/file/d/1Tzlu5L6yIWlQNIbt87EUMMyk5J9_g_Wx/view?usp=sharing)
 
 🤖 ML Model: [🎥 Model in Action](https://drive.google.com/file/d/1JxdqmFrUSm1iX9HzaqwH_dKpg3-8oq0c/view?usp=sharing)
 
