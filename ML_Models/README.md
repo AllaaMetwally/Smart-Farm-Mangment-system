@@ -1,4 +1,4 @@
-# 🐄 Animal Health Prediction
+# 🐄 Animal Health Prediction Setup Guide
 ## 📌 Overview
 - A machine learning system that predicts animal health status using CatBoost classifier, with a user-friendly Streamlit web interface.
 
@@ -33,9 +33,9 @@
 
         streamlit run app_final.py        
 
-🌐 Access the Model:
-Once the app is running, open your browser and go to:
-👉 http://localhost:8501
+## 🌐 Access the Model:
+        Once the app is running, open your browser and go to:
+        👉 http://localhost:8501
 
 ⚠️ App Features:
 - Input animal details (weight, age, days since vaccine)
