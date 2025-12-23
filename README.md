@@ -1,11 +1,9 @@
 # SmartFarm Management System 🌱
 
-
 ## Overview
 
 An integrated database system that digitizes farm operations including animal health tracking, crop management, financial monitoring, and workforce management.
 
-------
 
 ## Problem & Solution
 
@@ -13,7 +11,6 @@ Problem: Fragmented farm data, inefficient monitoring, manual financial tracking
 
 Solution: Centralized RDBMS with 4 modules: Livestock, Crops, Finance, Operations
 
------
 
 ## Key Features
 
@@ -27,7 +24,6 @@ Solution: Centralized RDBMS with 4 modules: Livestock, Crops, Finance, Operation
 
 🔔 Automated Alert System
 
-----
 
 ## Technical Stack
 
@@ -39,7 +35,6 @@ Frontend: React.js
 
 ML: Scikit-learn, XGBoost
 
----
 
 ## Impact
 
@@ -51,7 +46,6 @@ ML: Scikit-learn, XGBoost
 
 20-25% higher profitability
 
----
 
 
 ## Future Roadmap
@@ -64,7 +58,6 @@ ML: Scikit-learn, XGBoost
 
 4. Blockchain for supply chain
 
----
 
 ## Live Links
 
